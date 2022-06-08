@@ -3,3 +3,10 @@ https://git-scm.com
 
 O que é Git?
 O Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+Tópicos importantes para lembrar:
+- Objetos internos do Git (Blobs, Trees e Commits);
+- Chave SSH e Token
+- Comandos em geral;
+- Utilização do Tab para facilitar o trabalho.
+
